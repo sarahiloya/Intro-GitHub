@@ -7,4 +7,6 @@ _inclinada_
 
 # Titulos
 
-### Nuevo cambio
+### Insertar imagen
+
+![hack](img/bird.jpg)
