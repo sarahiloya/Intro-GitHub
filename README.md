@@ -9,4 +9,4 @@ _inclinada_
 
 ### Insertar imagen
 
-![hack](img/bird.jpg)
+![hack](Img/bird.jpg)
